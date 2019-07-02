@@ -3,5 +3,5 @@
 
 ## npm
 ```
-npx fromcouch
+npx ebavs
 ```

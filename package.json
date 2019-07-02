@@ -1,6 +1,6 @@
 {
   "name": "ebavs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A businesn card for EBAVS/",
   "main": "/bin/card.js",
   "bin": {
